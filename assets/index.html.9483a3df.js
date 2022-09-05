@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"T\xECm hi\u1EC3u chung v\u1EC1 Hackintosh","lang":"vi","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null},"readingTime":{"minutes":1,"words":7},"filePathRelative":"guide/README.md"}');export{e as data};
