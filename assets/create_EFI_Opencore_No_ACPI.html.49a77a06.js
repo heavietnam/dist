@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-61604adc","path":"/guide/install/create_EFI_Opencore_No_ACPI.html","title":"C\xE1ch l\xE0m EFI Opencore No ACPI","lang":"vi","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661513264000},"readingTime":{"minutes":1,"words":116},"filePathRelative":"guide/install/create_EFI_Opencore_No_ACPI.md"}');export{e as data};
